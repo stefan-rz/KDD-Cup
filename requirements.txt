@@ -1,0 +1,8 @@
+psutil
+tqdm
+lightgbm
+numpy
+pandas
+glove-python
+gensim
+
